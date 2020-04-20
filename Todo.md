@@ -7,4 +7,6 @@ To write on
 5. Memory Mapped IO
 6. Implement your own malloc
 7. C groups
-8. 
+8. .bashrc and .bash_profile
+9. Unix Domain Sockets
+10.
